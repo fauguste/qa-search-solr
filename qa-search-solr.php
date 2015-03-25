@@ -267,7 +267,7 @@ class qaSearchSolr {
     $results = array();
 
     $client = new GuzzleHttp\Client();
-    $url = (string)qa_opt('plugin_search_solr_endpoint')."select";
+    $url = (string)qa_opt('plugin_search_solr_endpoint')."/select";
 
     $param  = array();
     $param['wt'] = 'json';
