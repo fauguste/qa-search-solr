@@ -2,8 +2,8 @@
 
 /*
 	Plugin Name: Solr search
-	Plugin URI:
-	Plugin Description: Use solr for seach.
+	Plugin URI: https://github.com/fauguste/qa-search-solr
+	Plugin Description: Plugin to replace default search functionality in Question2Answer with Solr.
 	Plugin Version: 1.0
 	Plugin Date: 2015-03-24
 	Plugin Author: Frédéric AUGUSTE
